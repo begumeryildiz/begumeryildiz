@@ -1,3 +1,6 @@
+![workplace-with-keyboard-notebooks-coffee-cup](https://user-images.githubusercontent.com/30779769/178345994-ea130854-998d-4c2a-a9d9-2992d6b65dcb.jpeg)
+
+
 # Hi, I'm Begüm <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"  width="30px" height="30px">
 
 I am an enthusiastic Full-Stack Web Developer with a Mathematics and Finance background, curious about tech, and building complete web applications with front-end and back-end. I consider myself passionate about learning new technologies and with the ability to adapt rapidly to any tech stack.
